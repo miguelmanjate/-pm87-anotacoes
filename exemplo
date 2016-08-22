@@ -4,7 +4,7 @@ public static void main(args[]){
 int a = 8;
 int b = 3;
 
-int soma = a + b;
+int soma = a / b;
 
 System.aut.println(soma);
 
